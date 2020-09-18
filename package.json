@@ -9,7 +9,9 @@
     "convertkit-react": "^1.4.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-mailchimp-subscribe": "^2.1.0",
     "react-player": "^2.6.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
   "scripts": {
